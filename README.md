@@ -8,8 +8,8 @@
 
 <br clear="both">
 
-<p align="left">- Software Developer Front-end</p>
-
+<p align="left">-👨‍💻 Software Developer Front-end</p>
+<p align="left">-🤓 self-employed</p>
 ###
 
 <h2 align="left">Techs</h2>
