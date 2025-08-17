@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Felipe Duarte</h2>
+<h2 align="left">Hii 👋! My name is Felipe Duarte</h2>
 
 ###
 
@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<p align="left">-👨‍💻 Software Developer Front-end</p>
+<p align="left">-👨‍💻 Software enginner</p>
 <p align="left">-🤓 self-employed</p>
 ###
 
