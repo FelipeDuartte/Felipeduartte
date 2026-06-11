@@ -1,48 +1,70 @@
-<h2 align="left">Hii 👋! My name is Felipe Duarte</h2>
+<div align="center">
 
-###
+# 👋 Olá, eu sou Felipe Duarte
 
-<h2 align="left">- About me</h2>
+### 💻 Desenvolvedor Full-stack | RPA Developer | API Development |
 
-###
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full-stack+Developer;RPA+Developer;Python+Javascript+Developer;REST+API+Developer;Automation+Enthusiast"/>
 
-<br clear="both">
+<img src="https://komarev.com/ghpvc/?username=Felipeduarte&color=blue&style=for-the-badge"/>
 
-<p align="left">-👨‍💻 Full-stack software enginner</p>
-<p align="left">-🤓 self-employed | Student</p>
-###
-
-<h2 align="left">Techs</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo" />
-  <img width="12" />
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeDuartte&radius=16&theme=gruvbox&area=true&order=5" height="250" alt="activity-graph graph"  />
+## 👨‍💻 About Me
+
+- 💻 Full-stack & RPA Developer.
+- 🐍 Back-end development with Python, FastAPI, and Django.
+- ⚛️ Front-end development with JavaScript, React.js, and Bootstrap.
+- 🤖 Process automation using RPA and BotCity.
+- 🗄️ Experience with SQLite, MySQL, and PostgreSQL.
+- 🔗 REST API development and system integration.
+- 📈 Passionate about automation, software architecture, and UI/UX.
+---
+
+# 🛠 Tecnologias
+
+## Linguagens
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css"/>
+</p>
+
+## Frameworks e Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,git,github,django,react,vscode"/>
+</p>
+
+## Banco de Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+</p>
+
+---
+
+# 🌎 Conecte-se comigo
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/felipe-duarte-521628364/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Felipeduartte">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/>
+</a>
+
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+<div align="center">
+
+### 💙 "Transformando ideias em soluções através da tecnologia."
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
 </div>
-
-###
