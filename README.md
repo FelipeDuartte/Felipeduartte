@@ -28,13 +28,13 @@
 ## Linguagens
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,js,typescript,html,css"/>
 </p>
 
 ## Frameworks e Ferramentas
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,git,github,django,react,vscode"/>
+<img src="https://skillicons.dev/icons?i=fastapi,git,github,django,react,next"/>
 </p>
 
 ## Banco de Dados
