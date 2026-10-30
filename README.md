@@ -16,8 +16,8 @@
 
 - 💻 Full-stack & RPA Developer.
 - 🐍 Back-end development with Python, FastAPI, and Django.
-- ⚛️ Front-end development with JavaScript, React.js, and Bootstrap.
-- 🤖 Process automation using RPA and BotCity.
+- ⚛️ Front-end development with JavaScript, React.js/Next.js, TypeScript.
+- 🤖 Process automation using RPA.
 - 🗄️ Experience with SQLite, MySQL, and PostgreSQL.
 - 🔗 REST API development and system integration.
 - 📈 Passionate about automation, software architecture, and UI/UX.
